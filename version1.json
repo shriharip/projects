@@ -1,0 +1,68 @@
+[
+  {
+    "Company": "Simple Mobility",
+    "URL": "https://simplemobility.io",
+    "Role": "CTO",
+    "From": "Dec-18",
+    "To": "Mar-19",
+    "Team Size": 1,
+    "Composition": "Full stack -1",
+    "Tech Stack": "Angular, React-Native, Firebase, graphql",
+    "Responsibilities": "Full stack development"
+  },
+  {
+    "Company": "Students of Strength",
+    "URL": "https://studentsofstrength.com",
+    "Role": "Tech Lead/Architect",
+    "From": "Dec-16",
+    "To": "Present",
+    "Team Size": 4,
+    "Composition": "Backend-2, Frontend-2, Mobile-2, Quality-2, Scrum-1",
+    "Tech Stack": "Angular, Nodejs, Cordova, Redis-caching",
+    "Responsibilities": "Architecture, Code Review, Supporting Dev team for API integration etc."
+  },
+  {
+    "Company": "Microflow",
+    "URL": "https://microflow.dk",
+    "Role": "Partner",
+    "From": "Jun-17",
+    "To": "Aug-17",
+    "Team Size": 2,
+    "Composition": "Full Stack-1",
+    "Tech Stack": "Unity",
+    "Responsibilities": "Building Gaming platform"
+  },
+  {
+    "Company": "Above Solutions",
+    "URL": "https://jiyo.com",
+    "Role": "Project Management",
+    "From": "May-15",
+    "To": "Sep-15",
+    "Team Size": 13,
+    "Composition": "Backend-2, Frontend-3, Mobile-4, Quality-3, Scrum-1",
+    "Tech Stack": "PHP, Node, Android, Ios, SQL, MongoDB",
+    "Responsibilities": "Project Management, Tech Advisor"
+  },
+  {
+    "Company": "Above Solutions",
+    "URL": "http://ganjam.com/#/",
+    "Role": "Tech Lead",
+    "From": "Aug-15",
+    "To": "Mar-16",
+    "Team Size": 2,
+    "Composition": "Front end -2",
+    "Tech Stack": "Node, HTML, CSS, Javascript",
+    "Responsibilities": "Code Review, rchitecture"
+  },
+  {
+    "Company": "SAP",
+    "URL": "https://www.sap.com/products/business-bydesign.html",
+    "Role": "Developer/ Team Lead",
+    "From": "Jul-05",
+    "To": "Jul-10",
+    "Team Size": 7,
+    "Composition": "Developers-7, Scrum Master-1,",
+    "Tech Stack": "Propretiary, Javascript, Ruby",
+    "Responsibilities": "Development of APIs, Backend"
+  }
+]
